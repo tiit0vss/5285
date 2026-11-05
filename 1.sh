@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hello DevoPsi"
+echo "Hello Devu, how are y?"
 
